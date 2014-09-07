@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A6BE2970-2DCA-4349-9A07-40AABFE729CE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Line Path</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5D0D5D2D7C3F84C465F859A59868919A548B5056</key>
+		<string>https://github.com/cxca/LinePath.git</string>
+		<key>6CC8DFDE69B2088A7ABCC565568F622C438918FB</key>
+		<string>https://bitbucket.org/cxca/linepath.git</string>
+		<key>D30B4714-2D55-4775-A996-893A882297D6</key>
+		<string>https://bitbucket.org/cxca/linepath.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Line Path.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5D0D5D2D7C3F84C465F859A59868919A548B5056</key>
+		<string>../..</string>
+		<key>6CC8DFDE69B2088A7ABCC565568F622C438918FB</key>
+		<string>../../../Follow%20Me</string>
+		<key>D30B4714-2D55-4775-A996-893A882297D6</key>
+		<string>../../../Follow Me</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cxca/LinePath.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5D0D5D2D7C3F84C465F859A59868919A548B5056</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D30B4714-2D55-4775-A996-893A882297D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Follow Me</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6CC8DFDE69B2088A7ABCC565568F622C438918FB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Follow%20Me</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5D0D5D2D7C3F84C465F859A59868919A548B5056</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LinePath%20OpenSource</string>
+		</dict>
+	</array>
+</dict>
+</plist>

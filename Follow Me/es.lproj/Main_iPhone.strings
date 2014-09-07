@@ -1,0 +1,15 @@
+
+/* Class = "IBUIButton"; normalTitle = "Game Center"; ObjectID = "980-nV-URz"; */
+"980-nV-URz.normalTitle" = "Game Center";
+
+/* Class = "IBUIButton"; normalTitle = "Menu"; ObjectID = "FSr-ju-vft"; */
+"FSr-ju-vft.normalTitle" = "Menu";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "RaT-Fw-CiM"; */
+"RaT-Fw-CiM.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "Score:000000"; ObjectID = "Yg3-UN-F5r"; */
+"Yg3-UN-F5r.text" = "Score:000000";
+
+/* Class = "IBUILabel"; text = "Line Path"; ObjectID = "qh2-PQ-BTd"; */
+"qh2-PQ-BTd.text" = "Line Path";
